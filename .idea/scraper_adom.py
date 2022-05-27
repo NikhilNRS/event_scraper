@@ -7,8 +7,10 @@ url = 'https://www.evenementkalender.nl/2022-05'
 response = requests.get(url)
 text = response.text
 data = BeautifulSoup(text, 'html.parser')
+# print(data)
 
-help(data)
+headings = data.find_all('li')
+print(headings)
 
 # headings = data.find_all('tr')[0]
 # headings_list = []  # list to store all headings
