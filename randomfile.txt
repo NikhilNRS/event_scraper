@@ -1,0 +1,903 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<base href="https://www.evenementkalender.nl/"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="max-age=3600, public" http-equiv="Cache-Control"/>
+<meta content="Evenementkalender.nl" name="author"/>
+<meta content="Evenementkalender.nl - de evenementenkalender van Nederland" name="description"/>
+<link href="https://www.evenementkalender.nl/feed.php" rel="alternate" title="Evenementkalender RSS Feed" type="application/rss+xml"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="styles/MainStyles.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="styles/MainStylesExtras.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="../styles/responsive.css" rel="stylesheet"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
+<script src="javascripts/jQuery.Extras.js" type="text/javascript"></script>
+<script src="javascripts/jQuery.EvenementKalender.js" type="text/javascript"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LdMt-IUAAAAALqkvDIeZ6LFuhUBpXq3v8GSp9IO"></script>
+<script>
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6LdMt-IUAAAAALqkvDIeZ6LFuhUBpXq3v8GSp9IO', {action: 'homepage'}).then(function(token) {
+                var recaptchaResponse = document.getElementById('recaptchaResponse');
+                recaptchaResponse.value = token;
+            });
+        });
+    </script>
+<script src="javascripts/cufon.js" type="text/javascript"></script>
+<script src="javascripts/Calibri.font.js" type="text/javascript"></script>
+<script src="javascripts/Ebrima.font.js" type="text/javascript"></script>
+<script src="javascripts/ready.js" type="text/javascript"></script>
+<!--[if lt IE 7.]><script defer type="text/javascript" src="javascripts/png.js"></script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="styles/ie7.css" /><![endif]-->
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-2009545366816316",
+            enable_page_level_ads: true
+        });
+    </script>
+<title>Evenementen in mei 2022 | https://evenementkalender.nl</title>
+<link href="/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<meta content="#ffffff" name="msapplication-TileColor"/>
+<meta content="/ms-icon-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+</head>
+<body><!-- <div class="top_line">I.v.m. Coronavirus kan het zijn dat geplaatste evenementen geen doorgang vinden.</div> -->
+<div class="middle" id="top">
+<!--	 <a href="https://www.evenementkalender.nl/modules/fb.Registreren.php" id="box_registreer_link" title="Maak gratis een zakelijk account aan" class="login_business"> <strong>AANMELDEN</strong></a> -->
+<a class="login_business" href="beheer" title="Indien u een zakelijke account heeft, kunt u hier inloggen"><strong>INLOGGEN</strong></a>
+<a class="logo" href="" title="Evenementkalender alle evenementen in Nederland in onze online agenda"><img alt="Evenementkalender alle evenementen in Nederland in onze online agenda" src="images/logo_evenementkalender.png"/></a>
+</div>
+<div class="bg_content">
+<div class="middle"><!--wrapper needed-->
+<a class="signup_header" href="gratis-evenement-aanmelden" title=""><img alt="" class="imgHoverable" src="images/eventsignup_teaser.png"/></a>
+<!--navigation-->
+<ul class="main_nav">
+<!--add active class when active-->
+<li><a class="" href="gratis-evenement-aanmelden" title="Meld u evenement gratis aan!">gratis evenement aanmelden</a></li>
+<li><a class="advertise" href="adverteren" title="Meld u evenement gratis aan!">adverteren</a></li>
+<li><a class="colofon" href="colofon" title="Bekijk de colofon van evenementkalender.nl!">colofon</a></li>
+<li><a class="website" href="evenementkalender-op-jouw-website" title="Evenementkalender.nl op jouw website? Dat kan!">op jouw website?</a></li>
+</ul>
+<!--months-->
+<ul class="months">
+<li><a href="2023-01" title="">januari</a></li>
+<li class="line"></li>
+<li><a href="2023-02" title="">februari</a></li>
+<li class="line"></li>
+<li><a href="2023-03" title="">maart</a></li>
+<li class="line"></li>
+<li><a href="2023-04" title="">april</a></li>
+<li class="line"></li>
+<li><a href="2022-05" title="">mei</a></li>
+<li class="line"></li>
+<li><a href="2022-06" title="">juni</a></li>
+<li class="line"></li>
+<li><a href="2022-07" title="">juli</a></li>
+<li class="line"></li>
+<li><a href="2022-08" title="">augustus</a></li>
+<li class="line"></li>
+<li><a href="2022-09" title="">september</a></li>
+<li class="line"></li>
+<li><a href="2022-10" title="">oktober</a></li>
+<li class="line"></li>
+<li><a href="2022-11" title="">november</a></li>
+<li class="line"></li>
+<li><a href="2022-12" title="">december</a></li>
+</ul>
+</div><!--middle-->
+</div><!--bg_content-->
+<!--
+search
+-->
+<div class="clear"></div>
+<div class="bg_search"><!-- bg -->
+<div class="middle"><!--wrapper-->
+<form action="zoeken" method="post">
+<ul class="search">
+<li class="title">Zoek je evenement</li>
+<li><input name="Trefwoord" onblur="clearText(this)" onfocus="clearText(this)" type="text" value="Vul hier een trefwoord in"/></li>
+<li class="line"></li>
+<li><input name="Plaatsnaam" onblur="clearText(this)" onfocus="clearText(this)" type="text" value="en/of Plaatsnaam"/></li>
+<li><input type="submit" value=""/></li>
+<li class="adv_search"><a class="adv_search" href="zoeken?uitgebreid" title="specifieker zoeken">specifieker zoeken</a></li>
+</ul>
+</form>
+</div><!--middle-->
+</div><!--bg_search-->
+<div class="clear"></div>
+<div class="bg_content">
+<div class="middle">
+</div>
+</div><!--
+content
+-->
+<div class="bg_content">
+<div class="middle" id="content">
+<!--breadcrumbs-->
+<ul class="breadcrumb">
+<li class="start">U bevindt zich hier:</li>
+<li><a href="" title="Evenementkalender.nl">home</a></li>
+<li class="line">-</li><li><a href="2022-05" title="Evenementen | ">mei 2022</a></li>
+<li class="back"><a href="javascript: history.go(-1)" title="#">Terug naar overzicht</a></li>
+</ul>
+<div id="left">
+<!--main trigger-->
+<div id="wrapper_maintrigger">
+<div class="top_main_trigger"></div>
+<ul id="maintrigger">
+<li id="maintrigger_right">
+<!--event info-->
+<h1 class="title">Evenementen in mei 2022</h1>
+<ul class="searchresults sort_results">
+<!--add active_az to a and span when activated-->
+<li class="date header">Startdatum</li>
+<li class="eventtitle header">Evenement</li>
+<!--replace active_az to active_za, again on a and span-->
+<li class="eventplace header">Plaats</li>
+</ul>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Emmen/Wijkcentrum-Angelslo/2022-05-30/Lezing-olv-Karen-Hamaker-Zondag-72016')">
+<li class="date"><time datetime="2022-05-30" itemprop="startDate">30-05-2022</time></li>
+<li class="eventtitle"><a href="Emmen/Wijkcentrum-Angelslo/2022-05-30/Lezing-olv-Karen-Hamaker-Zondag-72016" itemprop="url summary" title="Lezing olv Karen Hamaker-Zondag">Lezing olv Karen Hamaker-Zondag</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Emmen</span> (<span itemprop="region">Drenthe</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Rotterdam/Fletcher-hotel-Wings/2022-05-29/WeddingFair-Rotterdam-voorjaar-71635')">
+<li class="date"><time datetime="2022-05-29" itemprop="startDate">29-05-2022</time></li>
+<li class="eventtitle"><a href="Rotterdam/Fletcher-hotel-Wings/2022-05-29/WeddingFair-Rotterdam-voorjaar-71635" itemprop="url summary" title="WeddingFair Rotterdam voorjaar">WeddingFair Rotterdam voorjaar</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Rotterdam</span> (<span itemprop="region">Zuid-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Almere-Hout/Outdoorpark-SEC-Almere/2022-05-29/Mountainbiken-Open-Inschrijving-71986')">
+<li class="date"><time datetime="2022-05-29" itemprop="startDate">29-05-2022</time></li>
+<li class="eventtitle"><a href="Almere-Hout/Outdoorpark-SEC-Almere/2022-05-29/Mountainbiken-Open-Inschrijving-71986" itemprop="url summary" title="Mountainbiken Open Inschrijving">Mountainbiken Open Inschrijving</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Almere-Hout</span> (<span itemprop="region">Flevoland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Hoorn/Hoorn-Binnenstad/2022-05-29/StoryTrail-stadswandeling-Hoorn-71866')">
+<li class="date"><time datetime="2022-05-29" itemprop="startDate">29-05-2022</time></li>
+<li class="eventtitle"><a href="Hoorn/Hoorn-Binnenstad/2022-05-29/StoryTrail-stadswandeling-Hoorn-71866" itemprop="url summary" title="StoryTrail stadswandeling Hoorn">StoryTrail stadswandeling Hoorn</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Hoorn</span> (<span itemprop="region">Noord-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Breda/De-Avenue-/2022-05-28/Cirque-du-Burlesque-Dinnershow-71435')">
+<li class="date"><time datetime="2022-05-28" itemprop="startDate">28-05-2022</time></li>
+<li class="eventtitle"><a href="Breda/De-Avenue-/2022-05-28/Cirque-du-Burlesque-Dinnershow-71435" itemprop="url summary" title="Cirque du Burlesque Dinnershow">Cirque du Burlesque Dinnershow</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Breda</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Hattem/Binnenstad-Hattem/2022-05-28/Kunstfestival-Hattem-72008')">
+<li class="date"><time datetime="2022-05-28" itemprop="startDate">28-05-2022</time></li>
+<li class="eventtitle"><a href="Hattem/Binnenstad-Hattem/2022-05-28/Kunstfestival-Hattem-72008" itemprop="url summary" title="Kunstfestival Hattem">Kunstfestival Hattem</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Hattem</span> (<span itemprop="region">Gelderland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Ameide/Ameide/2022-05-28/Rommelmarkt-71987')">
+<li class="date"><time datetime="2022-05-28" itemprop="startDate">28-05-2022</time></li>
+<li class="eventtitle"><a href="Ameide/Ameide/2022-05-28/Rommelmarkt-71987" itemprop="url summary" title="Rommelmarkt">Rommelmarkt</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Ameide</span> (<span itemprop="region">Zuid-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Amsterdam/Goodhangout/2022-05-28/Schakel-49-Reunion-Oldskool-RenB-Boogie-Disco-Hiphop-Dance-Classics-72013')">
+<li class="date"><time datetime="2022-05-28" itemprop="startDate">28-05-2022</time></li>
+<li class="eventtitle"><a href="Amsterdam/Goodhangout/2022-05-28/Schakel-49-Reunion-Oldskool-RenB-Boogie-Disco-Hiphop-Dance-Classics-72013" itemprop="url summary" title="Schakel 49 Reunion - Oldskool R&amp;B Boogie Disco Hiphop Dance Classics">Schakel 49 Reunion - Oldskool R&amp;B Boogie Disco Hiphop Dance Classics</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Amsterdam</span> (<span itemprop="region">Noord-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Volkel/Tegenover-BillyBird-park-Hemelrijk-Volkel/2022-05-26/Kofferbakverkoop-Volkel-op-Hemelvaartsdag-71796')">
+<li class="date"><time datetime="2022-05-26" itemprop="startDate">26-05-2022</time></li>
+<li class="eventtitle"><a href="Volkel/Tegenover-BillyBird-park-Hemelrijk-Volkel/2022-05-26/Kofferbakverkoop-Volkel-op-Hemelvaartsdag-71796" itemprop="url summary" title="Kofferbakverkoop Volkel op Hemelvaartsdag">Kofferbakverkoop Volkel op Hemelvaartsdag</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Volkel</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Aarle-Rixtel/Dorpsstraat-Aarle-Rixtel/2022-05-26/Jaarmarkt-Aarle-Rixtel-71624')">
+<li class="date"><time datetime="2022-05-26" itemprop="startDate">26-05-2022</time></li>
+<li class="eventtitle"><a href="Aarle-Rixtel/Dorpsstraat-Aarle-Rixtel/2022-05-26/Jaarmarkt-Aarle-Rixtel-71624" itemprop="url summary" title="Jaarmarkt Aarle-Rixtel">Jaarmarkt Aarle-Rixtel</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Aarle-Rixtel</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Aarle-Rixtel/Dorpsstraat-Aarle-Rixtel/2022-05-26/Jaarmarkt-Aarle-Rixtel-71625')">
+<li class="date"><time datetime="2022-05-26" itemprop="startDate">26-05-2022</time></li>
+<li class="eventtitle"><a href="Aarle-Rixtel/Dorpsstraat-Aarle-Rixtel/2022-05-26/Jaarmarkt-Aarle-Rixtel-71625" itemprop="url summary" title="Jaarmarkt Aarle-Rixtel">Jaarmarkt Aarle-Rixtel</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Aarle-Rixtel</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Aarle-Rixtel/Dorpsstraat-Aarle-Rixtel/2022-05-26/Jaarmarkt-Aarle-Rixtel-71626')">
+<li class="date"><time datetime="2022-05-26" itemprop="startDate">26-05-2022</time></li>
+<li class="eventtitle"><a href="Aarle-Rixtel/Dorpsstraat-Aarle-Rixtel/2022-05-26/Jaarmarkt-Aarle-Rixtel-71626" itemprop="url summary" title="Jaarmarkt Aarle-Rixtel">Jaarmarkt Aarle-Rixtel</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Aarle-Rixtel</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Dordrecht/Weizigtpark-/2022-05-26/Lepeltje-Lepeltje-Dordrecht-2022-Hemelvaart-71869')">
+<li class="date"><time datetime="2022-05-26" itemprop="startDate">26-05-2022</time></li>
+<li class="eventtitle"><a href="Dordrecht/Weizigtpark-/2022-05-26/Lepeltje-Lepeltje-Dordrecht-2022-Hemelvaart-71869" itemprop="url summary" title="Lepeltje Lepeltje Dordrecht 2022 (Hemelvaart)">Lepeltje Lepeltje Dordrecht 2022 (Hemelvaart)</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Dordrecht</span> (<span itemprop="region">Zuid-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Utrecht/Het-Oude-Tolhuys/2022-05-25/Boekenbeurs-Utrecht-71981')">
+<li class="date"><time datetime="2022-05-25" itemprop="startDate">25-05-2022</time></li>
+<li class="eventtitle"><a href="Utrecht/Het-Oude-Tolhuys/2022-05-25/Boekenbeurs-Utrecht-71981" itemprop="url summary" title="Boekenbeurs Utrecht">Boekenbeurs Utrecht</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Utrecht</span> (<span itemprop="region">Utrecht</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('0 niet bekend/Landgoed-camping-La-belle-St-Flix/2022-05-25/Wise-Women-Retraite-Frankrijk-71740')">
+<li class="date"><time datetime="2022-05-25" itemprop="startDate">25-05-2022</time></li>
+<li class="eventtitle"><a href="0 niet bekend/Landgoed-camping-La-belle-St-Flix/2022-05-25/Wise-Women-Retraite-Frankrijk-71740" itemprop="url summary" title="Wise Women Retraite Frankrijk">Wise Women Retraite Frankrijk</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">0 niet bekend</span> (<span itemprop="region"></span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Leiden/Wibar-Leiden-/2022-05-22/Haast-Niets-71969')">
+<li class="date"><time datetime="2022-05-22" itemprop="startDate">22-05-2022</time></li>
+<li class="eventtitle"><a href="Leiden/Wibar-Leiden-/2022-05-22/Haast-Niets-71969" itemprop="url summary" title="Haast Niets">Haast Niets</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Leiden</span> (<span itemprop="region">Zuid-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Den Haag/Maranathakerk-Den-Haag/2022-05-22/Voorjaarsconcert-Maranathakerk-Den-Haag-Handel-Bach-Haydn-72017')">
+<li class="date"><time datetime="2022-05-22" itemprop="startDate">22-05-2022</time></li>
+<li class="eventtitle"><a href="Den Haag/Maranathakerk-Den-Haag/2022-05-22/Voorjaarsconcert-Maranathakerk-Den-Haag-Handel-Bach-Haydn-72017" itemprop="url summary" title="Voorjaarsconcert Maranathakerk Den Haag: Handel, Bach, Haydn">Voorjaarsconcert Maranathakerk Den Haag: Handel, Bach, Haydn</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Den Haag</span> (<span itemprop="region">Zuid-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Orvelte/Brink/2022-05-22/Celtic-Folk-Festival--71900')">
+<li class="date"><time datetime="2022-05-22" itemprop="startDate">22-05-2022</time></li>
+<li class="eventtitle"><a href="Orvelte/Brink/2022-05-22/Celtic-Folk-Festival--71900" itemprop="url summary" title="Celtic Folk Festival ">Celtic Folk Festival </a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Orvelte</span> (<span itemprop="region">Drenthe</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Gemert/KadoSjop-SYLTO/2022-05-22/Verwenbeurs-71954')">
+<li class="date"><time datetime="2022-05-22" itemprop="startDate">22-05-2022</time></li>
+<li class="eventtitle"><a href="Gemert/KadoSjop-SYLTO/2022-05-22/Verwenbeurs-71954" itemprop="url summary" title="Verwenbeurs">Verwenbeurs</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Gemert</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('0 niet bekend/Maranathakerk-Den-Haag/2022-05-22/Voorjaarsconcert-Maranathakerk-Den-Haag-Handel-Bach-Haydn-72018')">
+<li class="date"><time datetime="2022-05-22" itemprop="startDate">22-05-2022</time></li>
+<li class="eventtitle"><a href="0 niet bekend/Maranathakerk-Den-Haag/2022-05-22/Voorjaarsconcert-Maranathakerk-Den-Haag-Handel-Bach-Haydn-72018" itemprop="url summary" title="Voorjaarsconcert Maranathakerk Den Haag: Handel, Bach, Haydn">Voorjaarsconcert Maranathakerk Den Haag: Handel, Bach, Haydn</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">0 niet bekend</span> (<span itemprop="region"></span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Leeuwarden/Leeuwarden/2022-05-21/90s-en-00s-XXL-Outdoor--71968')">
+<li class="date"><time datetime="2022-05-21" itemprop="startDate">21-05-2022</time></li>
+<li class="eventtitle"><a href="Leeuwarden/Leeuwarden/2022-05-21/90s-en-00s-XXL-Outdoor--71968" itemprop="url summary" title="90's &amp; 00's XXL Outdoor ">90's &amp; 00's XXL Outdoor </a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Leeuwarden</span> (<span itemprop="region">Friesland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Mijnsheerenland/Recreatieoord-Binnenmaas/2022-05-21/Brocante-Markt-Klein-Frankrijk-71977')">
+<li class="date"><time datetime="2022-05-21" itemprop="startDate">21-05-2022</time></li>
+<li class="eventtitle"><a href="Mijnsheerenland/Recreatieoord-Binnenmaas/2022-05-21/Brocante-Markt-Klein-Frankrijk-71977" itemprop="url summary" title="Brocante Markt Klein Frankrijk">Brocante Markt Klein Frankrijk</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Mijnsheerenland</span> (<span itemprop="region">Zuid-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Waalwijk/Balade-parkeerterrein/2022-05-21/Voorjaarsmarkt-71991')">
+<li class="date"><time datetime="2022-05-21" itemprop="startDate">21-05-2022</time></li>
+<li class="eventtitle"><a href="Waalwijk/Balade-parkeerterrein/2022-05-21/Voorjaarsmarkt-71991" itemprop="url summary" title="Voorjaarsmarkt">Voorjaarsmarkt</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Waalwijk</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Amsterdam/Boot-1/2022-05-20/Storm-Limited-Edition-71948')">
+<li class="date"><time datetime="2022-05-20" itemprop="startDate">20-05-2022</time></li>
+<li class="eventtitle"><a href="Amsterdam/Boot-1/2022-05-20/Storm-Limited-Edition-71948" itemprop="url summary" title="Storm Limited Edition">Storm Limited Edition</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Amsterdam</span> (<span itemprop="region">Noord-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Eindhoven/Eindhoven/2022-05-20/Lepeltje-Lepeltje-Eindhoven-2022-71870')">
+<li class="date"><time datetime="2022-05-20" itemprop="startDate">20-05-2022</time></li>
+<li class="eventtitle"><a href="Eindhoven/Eindhoven/2022-05-20/Lepeltje-Lepeltje-Eindhoven-2022-71870" itemprop="url summary" title="Lepeltje Lepeltje Eindhoven 2022">Lepeltje Lepeltje Eindhoven 2022</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Eindhoven</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Alkmaar/Podium-Victorie/2022-05-18/Hackensaw-Boys-70897')">
+<li class="date"><time datetime="2022-05-18" itemprop="startDate">18-05-2022</time></li>
+<li class="eventtitle"><a href="Alkmaar/Podium-Victorie/2022-05-18/Hackensaw-Boys-70897" itemprop="url summary" title="Hackensaw Boys">Hackensaw Boys</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Alkmaar</span> (<span itemprop="region">Noord-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Den Haag/kloosterkerk/2022-05-18/pauzeconcert-kloosterkerk-den-haag-71841')">
+<li class="date"><time datetime="2022-05-18" itemprop="startDate">18-05-2022</time></li>
+<li class="eventtitle"><a href="Den Haag/kloosterkerk/2022-05-18/pauzeconcert-kloosterkerk-den-haag-71841" itemprop="url summary" title="pauzeconcert kloosterkerk den haag">pauzeconcert kloosterkerk den haag</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Den Haag</span> (<span itemprop="region">Zuid-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Afferden/Stichting-Dhammakaya-Nederland/2022-05-17/Dhammakaya-meditatie-voor-beginners-71992')">
+<li class="date"><time datetime="2022-05-17" itemprop="startDate">17-05-2022</time></li>
+<li class="eventtitle"><a href="Afferden/Stichting-Dhammakaya-Nederland/2022-05-17/Dhammakaya-meditatie-voor-beginners-71992" itemprop="url summary" title="Dhammakaya-meditatie voor beginners">Dhammakaya-meditatie voor beginners</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Afferden</span> (<span itemprop="region">Gelderland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Fijnaart/Zalencentrum-&quot;De-Parel&quot;/2022-05-15/WeddingFair-Fijnaart-71634')">
+<li class="date"><time datetime="2022-05-15" itemprop="startDate">15-05-2022</time></li>
+<li class="eventtitle"><a href='Fijnaart/Zalencentrum-"De-Parel"/2022-05-15/WeddingFair-Fijnaart-71634' itemprop="url summary" title="WeddingFair Fijnaart">WeddingFair Fijnaart</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Fijnaart</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Apeldoorn/CSV-Apeldoorn/2022-05-15/Zwientjestocht-71923')">
+<li class="date"><time datetime="2022-05-15" itemprop="startDate">15-05-2022</time></li>
+<li class="eventtitle"><a href="Apeldoorn/CSV-Apeldoorn/2022-05-15/Zwientjestocht-71923" itemprop="url summary" title="Zwientjestocht">Zwientjestocht</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Apeldoorn</span> (<span itemprop="region">Gelderland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Apeldoorn/CSV-Apeldoorn/2022-05-15/Zwientjestocht-71924')">
+<li class="date"><time datetime="2022-05-15" itemprop="startDate">15-05-2022</time></li>
+<li class="eventtitle"><a href="Apeldoorn/CSV-Apeldoorn/2022-05-15/Zwientjestocht-71924" itemprop="url summary" title="Zwientjestocht">Zwientjestocht</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Apeldoorn</span> (<span itemprop="region">Gelderland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Apeldoorn/CSV-Apeldoorn/2022-05-15/Zwientjestocht-71925')">
+<li class="date"><time datetime="2022-05-15" itemprop="startDate">15-05-2022</time></li>
+<li class="eventtitle"><a href="Apeldoorn/CSV-Apeldoorn/2022-05-15/Zwientjestocht-71925" itemprop="url summary" title="Zwientjestocht">Zwientjestocht</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Apeldoorn</span> (<span itemprop="region">Gelderland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Apeldoorn/CSV-Apeldoorn/2022-05-15/Zwientjestocht-71926')">
+<li class="date"><time datetime="2022-05-15" itemprop="startDate">15-05-2022</time></li>
+<li class="eventtitle"><a href="Apeldoorn/CSV-Apeldoorn/2022-05-15/Zwientjestocht-71926" itemprop="url summary" title="Zwientjestocht">Zwientjestocht</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Apeldoorn</span> (<span itemprop="region">Gelderland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Oss/Geffense-Plas/2022-05-15/CAR-BOOT-SALEKofferbakmarkt-71952')">
+<li class="date"><time datetime="2022-05-15" itemprop="startDate">15-05-2022</time></li>
+<li class="eventtitle"><a href="Oss/Geffense-Plas/2022-05-15/CAR-BOOT-SALEKofferbakmarkt-71952" itemprop="url summary" title="CAR BOOT SALE  Kofferbakmarkt">CAR BOOT SALE  Kofferbakmarkt</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Oss</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Ryptsjerk/De-Vertakking/2022-05-14/Streekmarkt-14-mei-2022-71745')">
+<li class="date"><time datetime="2022-05-14" itemprop="startDate">14-05-2022</time></li>
+<li class="eventtitle"><a href="Ryptsjerk/De-Vertakking/2022-05-14/Streekmarkt-14-mei-2022-71745" itemprop="url summary" title="Streekmarkt 14 mei 2022">Streekmarkt 14 mei 2022</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Ryptsjerk</span> (<span itemprop="region">Friesland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Valthe/Ons-Dorpshuis-Valthe/2022-05-14/Lezing-olv-Peter-Vereecke-71937')">
+<li class="date"><time datetime="2022-05-14" itemprop="startDate">14-05-2022</time></li>
+<li class="eventtitle"><a href="Valthe/Ons-Dorpshuis-Valthe/2022-05-14/Lezing-olv-Peter-Vereecke-71937" itemprop="url summary" title="Lezing olv Peter Vereecke">Lezing olv Peter Vereecke</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Valthe</span> (<span itemprop="region">Drenthe</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Made/The-World-of-Walking/2022-05-14/Vroegevogeltocht-71988')">
+<li class="date"><time datetime="2022-05-14" itemprop="startDate">14-05-2022</time></li>
+<li class="eventtitle"><a href="Made/The-World-of-Walking/2022-05-14/Vroegevogeltocht-71988" itemprop="url summary" title="Vroegevogeltocht">Vroegevogeltocht</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Made</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Veghel/Koekbouw-Veghel/2022-05-14/Feel-good-and-Shop-event-71623')">
+<li class="date"><time datetime="2022-05-14" itemprop="startDate">14-05-2022</time></li>
+<li class="eventtitle"><a href="Veghel/Koekbouw-Veghel/2022-05-14/Feel-good-and-Shop-event-71623" itemprop="url summary" title="Feel good and Shop event">Feel good and Shop event</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Veghel</span> (<span itemprop="region">Noord-Brabant</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Orvelte/Brink/2022-05-14/Brocante-Voorjaarsfair-Orvelte-2022-71899')">
+<li class="date"><time datetime="2022-05-14" itemprop="startDate">14-05-2022</time></li>
+<li class="eventtitle"><a href="Orvelte/Brink/2022-05-14/Brocante-Voorjaarsfair-Orvelte-2022-71899" itemprop="url summary" title="Brocante Voorjaarsfair Orvelte 2022">Brocante Voorjaarsfair Orvelte 2022</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Orvelte</span> (<span itemprop="region">Drenthe</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Toldijk/Vleesboerderij-Garritsen/2022-05-14/Het-Agrarisch-Verleden-Herleeft-71945')">
+<li class="date"><time datetime="2022-05-14" itemprop="startDate">14-05-2022</time></li>
+<li class="eventtitle"><a href="Toldijk/Vleesboerderij-Garritsen/2022-05-14/Het-Agrarisch-Verleden-Herleeft-71945" itemprop="url summary" title="Het Agrarisch Verleden Herleeft">Het Agrarisch Verleden Herleeft</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Toldijk</span> (<span itemprop="region">Gelderland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Hengelo/De-voormalige-panden-van-warenhuis-VenD-en-Bever-Sp/2022-05-14/Blijgoed-Atelierplein-Hengelo-71966')">
+<li class="date"><time datetime="2022-05-14" itemprop="startDate">14-05-2022</time></li>
+<li class="eventtitle"><a href="Hengelo/De-voormalige-panden-van-warenhuis-VenD-en-Bever-Sp/2022-05-14/Blijgoed-Atelierplein-Hengelo-71966" itemprop="url summary" title="Blijgoed Atelierplein Hengelo">Blijgoed Atelierplein Hengelo</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Hengelo</span> (<span itemprop="region">Overijssel</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Hengelo/De-voormalige-panden-van-warenhuis-VenD-en-Bever-Sp/2022-05-14/Blijgoed-Atelierplein-Hengelo-71967')">
+<li class="date"><time datetime="2022-05-14" itemprop="startDate">14-05-2022</time></li>
+<li class="eventtitle"><a href="Hengelo/De-voormalige-panden-van-warenhuis-VenD-en-Bever-Sp/2022-05-14/Blijgoed-Atelierplein-Hengelo-71967" itemprop="url summary" title="Blijgoed Atelierplein Hengelo">Blijgoed Atelierplein Hengelo</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Hengelo</span> (<span itemprop="region">Overijssel</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Sassenheim/Van-der-Valk-hotel-Sassenheim/2022-05-08/WeddingFair-Sassenheim-71752')">
+<li class="date"><time datetime="2022-05-08" itemprop="startDate">08-05-2022</time></li>
+<li class="eventtitle"><a href="Sassenheim/Van-der-Valk-hotel-Sassenheim/2022-05-08/WeddingFair-Sassenheim-71752" itemprop="url summary" title="WeddingFair Sassenheim">WeddingFair Sassenheim</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Sassenheim</span> (<span itemprop="region">Zuid-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Haarlem/Haarlem-Binnenstad/2022-05-08/StoryTrail-stadswandeling-Haarlem-71865')">
+<li class="date"><time datetime="2022-05-08" itemprop="startDate">08-05-2022</time></li>
+<li class="eventtitle"><a href="Haarlem/Haarlem-Binnenstad/2022-05-08/StoryTrail-stadswandeling-Haarlem-71865" itemprop="url summary" title="StoryTrail stadswandeling Haarlem">StoryTrail stadswandeling Haarlem</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Haarlem</span> (<span itemprop="region">Noord-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Duiven/Cultuurcentrum-DE-OGTENT/2022-05-07/Isseltaler-verjaardagsconcertmet-Quattro-Poly--71821')">
+<li class="date"><time datetime="2022-05-07" itemprop="startDate">07-05-2022</time></li>
+<li class="eventtitle"><a href="Duiven/Cultuurcentrum-DE-OGTENT/2022-05-07/Isseltaler-verjaardagsconcertmet-Quattro-Poly--71821" itemprop="url summary" title="Isseltaler verjaardagsconcert  met Quattro Poly ">Isseltaler verjaardagsconcert  met Quattro Poly </a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Duiven</span> (<span itemprop="region">Gelderland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Utrecht/Stadion-Galgenwaard-Utrecht/2022-05-07/30-40-50-plus-Dancing-Party-XL-Dansfeest-71086')">
+<li class="date"><time datetime="2022-05-07" itemprop="startDate">07-05-2022</time></li>
+<li class="eventtitle"><a href="Utrecht/Stadion-Galgenwaard-Utrecht/2022-05-07/30-40-50-plus-Dancing-Party-XL-Dansfeest-71086" itemprop="url summary" title="30 40 50 plus Dancing Party XL - Dansfeest">30 40 50 plus Dancing Party XL - Dansfeest</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Utrecht</span> (<span itemprop="region">Utrecht</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Den Haag/kloosterkerk/2022-05-04/pauzeconcert-kloosterkerk-den-haag-71840')">
+<li class="date"><time datetime="2022-05-04" itemprop="startDate">04-05-2022</time></li>
+<li class="eventtitle"><a href="Den Haag/kloosterkerk/2022-05-04/pauzeconcert-kloosterkerk-den-haag-71840" itemprop="url summary" title="pauzeconcert kloosterkerk den haag">pauzeconcert kloosterkerk den haag</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Den Haag</span> (<span itemprop="region">Zuid-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Silvolde/De-sprank/2022-05-02/Yoga-Docenten-opleiding-71618')">
+<li class="date"><time datetime="2022-05-02" itemprop="startDate">02-05-2022</time></li>
+<li class="eventtitle"><a href="Silvolde/De-sprank/2022-05-02/Yoga-Docenten-opleiding-71618" itemprop="url summary" title="Yoga Docenten opleiding">Yoga Docenten opleiding</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Silvolde</span> (<span itemprop="region">Gelderland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option1" onclick="DoNav('Alkmaar/Podium-Victorie/2022-05-01/Randy-Hansen-In-Loving-Memory-of-Jimi-Hendrix-70879')">
+<li class="date"><time datetime="2022-05-01" itemprop="startDate">01-05-2022</time></li>
+<li class="eventtitle"><a href="Alkmaar/Podium-Victorie/2022-05-01/Randy-Hansen-In-Loving-Memory-of-Jimi-Hendrix-70879" itemprop="url summary" title="Randy Hansen - In Loving Memory of Jimi Hendrix">Randy Hansen - In Loving Memory of Jimi Hendrix</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Alkmaar</span> (<span itemprop="region">Noord-Holland</span>)</li>
+</span>
+</ul>
+</div>
+<div itemscope="" itemtype="https://data-vocabulary.org/Event">
+<ul class="searchresults results_lateron_option2" onclick="DoNav('Nijmegen/Goffert-Stadion/2022-05-01/WeddingFair-Nijmegen-71881')">
+<li class="date"><time datetime="2022-05-01" itemprop="startDate">01-05-2022</time></li>
+<li class="eventtitle"><a href="Nijmegen/Goffert-Stadion/2022-05-01/WeddingFair-Nijmegen-71881" itemprop="url summary" title="WeddingFair Nijmegen">WeddingFair Nijmegen</a></li>
+<span itemprop="address" itemscope="" itemtype="https://data-vocabulary.org/Address">
+<li class="eventplace"><span itemprop="locality">Nijmegen</span> (<span itemprop="region">Gelderland</span>)</li>
+</span>
+</ul>
+</div>
+<a class="totop" href="2022-05#top" title="#">naar boven<span></span></a>
+<div class="clear"></div>
+<ul class="page_numbers">
+<li class="page">Pagina:</li><li><a href="2022-05?p=1" title="">1</a></li><li><a href="2022-05?p=2" title="">2</a></li>
+</ul>
+</li><!--maintrigger_right-->
+<li id="maintrigger_left">
+<p class="title">Vind je evenement</p>
+<li id="maintrigger_left">
+<ul class="maintrigger_left">
+<li class="maintrigger_left_top">
+<a class="trigger_dropdown menu_bottom">Op categorie</a>
+<div class="menu_content_bottom"><!--genre div-->
+<ul class="subnav_accordion"><li><a href="categorie/automotor">Automotor</a></li><li><a href="categorie/carriere">Carriere</a></li><li><a href="categorie/culinair">Culinair</a></li><li><a href="categorie/cultureel">Cultureel</a></li><li><a href="categorie/feestdagen">Feestdagen</a></li><li><a href="categorie/film">Film</a></li><li><a href="categorie/goededoelen">Goededoelen</a></li><li><a href="categorie/hobby">Hobby</a></li><li><a href="categorie/kidsfamily">Kidsfamily</a></li><li><a href="categorie/kunst">Kunst</a></li>
+</ul>
+</div><!--genre div-->
+</li>
+<li class="maintrigger_left_bottom">
+<a class="trigger_dropdown menu_top">Geselecteerd op datum</a>
+<div class="menu_content_top"><!--date div-->
+<ul class="subnav_accordion">
+<li><a href="2022-05-27">Vandaag</a></li>
+<li><a href="2022-05-28">Morgen</a></li>
+<li><a href="2022-05-28">Dit weekend</a></li>
+</ul>
+<div id="datepicker"></div>
+</div><!--date div-->
+</li>
+</ul>
+</li><!--maintrigger_left-->
+</li>
+</ul>
+</div><!--wrapper_maintrigger-->
+<!-- 
+        BANNER 728 x 90
+        -->
+</div><!--left-->
+<div id="right">
+<!--
+            campagne
+            -->
+<!--
+            most visited
+            -->
+<div class="wrapper_smallspot">
+<div class="top_smallspot"></div>
+<h3 class="title">Meest bezocht</h3>
+<div class="wrapper_inside"><ul class="mostvisit left_visit"><li><a href="Amsterdam" title="Evenementen in Amsterdam">Amsterdam</a></li><li><a href="Rotterdam" title="Evenementen in Rotterdam">Rotterdam</a></li><li><a href="Utrecht" title="Evenementen in Utrecht">Utrecht</a></li><li><a href="Den Haag" title="Evenementen in Den Haag">Den Haag</a></li><li><a href="Assen" title="Evenementen in Assen">Assen</a></li><li><a href="Eindhoven" title="Evenementen in Eindhoven">Eindhoven</a></li><li><a href="Roermond" title="Evenementen in Roermond">Roermond</a></li><li><a href="Groningen" title="Evenementen in Groningen">Groningen</a></li><li><a href="Breda" title="Evenementen in Breda">Breda</a></li><li><a href="Alkmaar" title="Evenementen in Alkmaar">Alkmaar</a></li><li><a href="Aadorp" title="Evenementen in Aadorp">Aadorp</a></li><li><a href="Arnhem" title="Evenementen in Arnhem">Arnhem</a></li><li><a href="Leeuwarden" title="Evenementen in Leeuwarden">Leeuwarden</a></li><li><a href="Amstelveen" title="Evenementen in Amstelveen">Amstelveen</a></li><li><a href="Hoofddorp" title="Evenementen in Hoofddorp">Hoofddorp</a></li><li><a href="Almelo" title="Evenementen in Almelo">Almelo</a></li><li><a href="Maastricht" title="Evenementen in Maastricht">Maastricht</a></li><li><a href="Den Bosch" title="Evenementen in Den Bosch">Den Bosch</a></li><li><a href="Emmen" title="Evenementen in Emmen">Emmen</a></li><li><a href="Den Bosch" title="Evenementen in Den Bosch">Den Bosch</a></li></ul><ul class="mostvisit right_visit"><li><a href="categorie/automotor" title="automotor">Automotor</a></li><li><a href="categorie/carriere" title="carriere">Carriere</a></li><li><a href="categorie/culinair" title="culinair">Culinair</a></li><li><a href="categorie/cultureel" title="cultureel">Cultureel</a></li><li><a href="categorie/feestdagen" title="feestdagen">Feestdagen</a></li><li><a href="categorie/film" title="film">Film</a></li><li><a href="categorie/goededoelen" title="goededoelen">Goededoelen</a></li><li><a href="categorie/hobby" title="hobby">Hobby</a></li><li><a href="categorie/kidsfamily" title="kidsfamily">Kidsfamily</a></li><li><a href="categorie/kunst" title="kunst">Kunst</a></li><li><a href="categorie/lifestyle" title="lifestyle">Lifestyle</a></li><li><a href="categorie/muziek" title="muziek">Muziek</a></li><li><a href="categorie/nationaal" title="nationaal">Nationaal</a></li><li><a href="categorie/onderwijs" title="onderwijs">Onderwijs</a></li><li><a href="categorie/overheid" title="overheid">Overheid</a></li><li><a href="categorie/regionaal" title="regionaal">Regionaal</a></li><li><a href="categorie/ruimtelijke-ontwikkeling" title="ruimtelijke-ontwikkeling">Ruimtelijke-ontwikkeling</a></li><li><a href="categorie/schoolvakanties" title="schoolvakanties">Schoolvakanties</a></li><li><a href="categorie/senioren" title="senioren">Senioren</a></li><li><a href="categorie/sport" title="sport">Sport</a></li></ul><div class="clear"></div><ul class="special_mostvisit">
+<li class="title"><a href="Breda/De-Avenue-/2022-05-28/Cirque-du-Burlesque-Dinnershow-71435" title="Cirque du Burlesque Dinnershow">Cirque du Burlesque Dinnershow</a></li>
+<li>Cirque du Burlesque een wervelende dinnershow in D..</li>
+</ul><ul class="special_mostvisit">
+<li class="title"><a href="Rotterdam/Fletcher-hotel-Wings/2022-05-29/WeddingFair-Rotterdam-voorjaar-71635" title="WeddingFair Rotterdam voorjaar">WeddingFair Rotterdam voorjaar</a></li>
+<li>Leuk, in ongedwongen sfeer inspiratie voor je brui..</li>
+</ul><ul class="special_mostvisit last_mostvisit">
+<li class="title"><a href="Dordrecht/Weizigtpark-/2022-05-26/Lepeltje-Lepeltje-Dordrecht-2022-Hemelvaart-71869" title="Lepeltje Lepeltje Dordrecht 2022 (Hemelvaart)">Lepeltje Lepeltje Dordrecht 2022 (Hemelvaart)</a></li>
+<li>..</li>
+</ul>
+</div><!--wrapper_inside-->
+</div><!--wrapper_smallspot-->
+<!-- 
+            BANNER 240 x 400
+            -->
+<!--Compleet en op maat-->
+<div class="wrapper_smallspot newsletter">
+<div class="top_smallspot"></div>
+<h6 class="title">Evenement gratis aanmelden</h6>
+<div class="wrapper_inside">
+<p><strong><a href="https://www.evenementkalender.nl/gratis-evenement-aanmelden">KLIK HIER</a></strong> om uw evenement gratis aan te melden. Evenementkalender.nl is de site waarop je alle bekende en minder evenementen kan vinden die in Nederland plaatsvinden.Zowel particulieren als bedrijven en/of instellingen kunnen <strong>GRATIS</strong> evenementen aanmelden via deze website. 
+Evenementkalender.nl is <strong>GEEN</strong> verkoopkanaal voor toegangskaarten voor de vermelde evenementen.</p>
+<div class="clear"></div>
+</div><!--wrapper_inside-->
+</div>
+<!--wrapper_smallspot-->
+<!--newsletter-->
+<div class="wrapper_smallspot newsletter">
+<div class="top_smallspot"></div>
+<h6 class="title">Aanmelden nieuwsbrief</h6>
+<div class="wrapper_inside">
+<!--newsletter-->
+<form action="modules/handles/handle.NieuwsbriefAanmelding.php" method="post">
+<ul class="newsletter_optin">
+<li><input name="EmailNieuwsbrief" onblur="clearText(this)" onfocus="clearText(this)" type="text" value="Uw e-mail adres"/></li>
+<li><input type="submit" value=""/></li>
+</ul>
+</form>
+<div class="clear"></div>
+<i>U ontvangt in uw mailbox een bevestiging van de aanmelding. Open deze email en klik op de activeringslink om uw 
+aanmelding te voltooien.<br/><!--ie7 br--></i>
+</div><!--wrapper_inside-->
+</div><!--wrapper_smallspot-->
+<div class="clear"></div><!--ie7 clear-->
+</div><!--right-->
+</div><!--content-->
+</div><!--bg_content--><div id="white_line"></div>
+<!--
+footer
+-->
+<div id="bg_footer">
+<br/><br/>
+<div class="middle">
+<ul>
+<!--first-->
+<li class="first_column">
+<ul>
+<li class="title"><a href="categorie/automotor" title="#">Auto's en Motoren</a></li>
+<li><a href="categorie/automotor/beurzen" title="#">Beurzen</a></li>
+<li><a href="categorie/automotor/clubdagen" title="#">Clubdagen</a></li>
+<li><a href="categorie/automotor/festivals" title="#">Festivals</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/Carriere" title="#">Carrière</a></li>
+<li><a href="categorie/Carriere/Beurzen" title="#">Beurzen</a></li>
+<li><a href="categorie/Carriere/Opendagen" title="#">Open dagen</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/Culinair" title="#">Culinair</a></li>
+<li><a href="categorie/Culinair/Beurzen" title="#">Beurzen</a></li>
+<li><a href="categorie/Culinair/Festivals" title="#">Festivals</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/Cultureel" title="#">Cultureel</a></li>
+<li><a href="categorie/Cultureel/Beurzen" title="#">Beurzen</a></li>
+<li><a href="categorie/Cultureel/Festivals" title="#">Festivals</a></li>
+</ul>
+</li>
+<!--second-->
+<li class="second_column">
+<ul>
+<li class="title"><a href="categorie/Feestdagen" title="#">Feestdagen</a></li>
+<li><a href="categorie/Feestdagen/45mei" title="#">4 en 5 mei</a></li>
+<li><a href="categorie/Feestdagen/Carnaval" title="#">Carnaval</a></li>
+<li><a href="categorie/Feestdagen/Hemelvaart" title="#">Hemelvaart</a></li>
+<li><a href="categorie/Feestdagen/Kerst" title="#">Kerst</a></li>
+<li><a href="categorie/Feestdagen/Koniginnedag" title="#">Koniginnedag</a></li>
+<li><a href="categorie/Feestdagen/oudennieuw" title="#">Oud en Nieuw</a></li>
+<li><a href="categorie/Feestdagen/Pasen" title="#">Pasen</a></li>
+<li><a href="categorie/Feestdagen/Pinksteren" title="#">Pinksteren</a></li>
+<li><a href="categorie/Feestdagen/Sinterklaas" title="#">Sinterklaas</a></li>
+<li><a href="categorie/Feestdagen/Valentijsdag" title="#">Valentijsdag</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/Films" title="#">Films</a></li>
+<li><a href="categorie/Films/Evenementen" title="#">Evenementen</a></li>
+<li><a href="categorie/Films/Festivals" title="#">Festivals</a></li>
+<li><a href="categorie/Films/Premiere" title="#">Premiere</a></li>
+</ul>
+</li>
+<!--thirth-->
+<li class="thirth_column">
+<ul>
+<li class="title"><a href="categorie/Hobby" title="#">Hobby</a></li>
+<li><a href="categorie/Hobby/Beurzen" title="#">Beurzen</a></li>
+<li><a href="categorie/Hobby/Boeken" title="#">Boeken</a></li>
+<li><a href="categorie/Hobby/Computers" title="#">Computers</a></li>
+<li><a href="categorie/Hobby/Denksport" title="#">Denksport</a></li>
+<li><a href="categorie/Hobby/Luchtvaart" title="#">Luchtvaart</a></li>
+<li><a href="categorie/Hobby/Modelbouw" title="#">Modelbouw</a></li>
+<li><a href="categorie/Hobby/Treinen" title="#">Treinen</a></li>
+<li><a href="categorie/Hobby/Verzamel" title="#">Verzamel</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/KidsFamily" title="#">Kids &amp; Family</a></li>
+<li><a href="categorie/KidsFamily/Attractieparken" title="#">Attractieparken</a></li>
+<li><a href="categorie/KidsFamily/Beurzen" title="#">Beurzen</a></li>
+<li><a href="categorie/KidsFamily/Circus" title="#">Circus</a></li>
+<li><a href="categorie/KidsFamily/Dierenpark" title="#">Dierenpark</a></li>
+<li><a href="categorie/KidsFamily/Kermis" title="#">Kermis</a></li>
+<li><a href="categorie/KidsFamily/Theater" title="#">Theater</a></li>
+</ul>
+</li>
+<!--fourth-->
+<li class="fourth_column">
+<ul>
+<li class="title"><a href="categorie/Muziek" title="#">Muziek</a></li>
+<li><a href="categorie/Muziek/Dance" title="#">Dance</a></li>
+<li><a href="categorie/Muziek/Country" title="#">Country</a></li>
+<li><a href="categorie/Muziek/Festival" title="#">Festival</a></li>
+<li><a href="categorie/Muziek/Folk" title="#">Folk</a></li>
+<li><a href="categorie/Muziek/Jazz" title="#">Jazz</a></li>
+<li><a href="categorie/Muziek/Klassiek" title="#">Klassiek</a></li>
+<li><a href="categorie/Muziek/Nederlandstalig" title="#">Nederlandstalig</a></li>
+<li><a href="categorie/Muziek/Opera" title="#">Opera</a></li>
+<li><a href="categorie/Muziek/Pop" title="#">Pop</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/Senioren" title="#">Senioren</a></li>
+<li><a href="categorie/Senioren/Beurzen" title="#">Beurzen</a></li>
+</ul>
+</li>
+<!--fifth-->
+<li class="fifth_column">
+<ul>
+<li class="title"><a href="categorie/Nationaal" title="#">Nationaal</a></li>
+<li><a href="categorie/Nationaal/Koninklijkhuis" title="#">Koninklijk huis</a></li>
+<li><a href="categorie/Nationaal/Politiek" title="#">Politiek</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/Onderwijs" title="#">Onderwijs &amp; Carrière</a></li>
+<li><a href="categorie/Onderwijs/Beurzen" title="#">Beurzen</a></li>
+<li><a href="categorie/Onderwijs/Open-dagen" title="#">Open dagen</a></li>
+<li><a href="categorie/Onderwijs/Schoolvakanties" title="#">Schoolvakanties</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/Regionaal" title="#">Regionaal</a></li>
+<li><a href="categorie/Regionaal/Braderie" title="#">Braderie</a></li>
+<li><a href="categorie/Regionaal/Jaarmarkten" title="#">Jaarmarkten</a></li>
+<li><a href="categorie/Regionaal/Rommelmarkten" title="#">Rommelmarkten</a></li>
+<li><a href="categorie/Regionaal/Verenigingen" title="#">Verenigingen</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/Schoolvakanties" title="#">Schoolvakanties</a></li>
+<li><a href="categorie/Schoolvakanties/Herfstvakantie" title="#">Herfstvakantie</a></li>
+<li><a href="categorie/Schoolvakanties/Kerstvakantie" title="#">Kerstvakantie</a></li>
+<li><a href="categorie/Schoolvakanties/Voorjaarsvakantie" title="#">Voorjaarsvakantie</a></li>
+<li><a href="categorie/Schoolvakanties/Zomervakantie" title="#">Zomervakantie</a></li>
+</ul>
+</li>
+<!--sixth-->
+<li class="sixth_column">
+<ul>
+<li class="title"><a href="categorie/Sportief" title="#">Sportief</a></li>
+<li><a href="categorie/Sportief/American-Football" title="#">American Football</a></li>
+<li><a href="categorie/Sportief/Fietsen" title="#">Fietsen</a></li>
+<li><a href="categorie/Sportief/Golf" title="#">Golf</a></li>
+<li><a href="categorie/Sportief/Marathon" title="#">Marathon</a></li>
+<li><a href="categorie/Sportief/Paardensport" title="#">Paardensport</a></li>
+<li><a href="categorie/Sportief/Schaatsen" title="#">Schaatsen</a></li>
+<li><a href="categorie/Sportief/Squash" title="#">Squash</a></li>
+<li><a href="categorie/Sportief/Tennis" title="#">Tennis</a></li>
+<li><a href="categorie/Sportief/Vissen" title="#">Vissen</a></li>
+<li><a href="categorie/Sportief/Voetbal" title="#">Voetbal</a></li>
+<li><a href="categorie/Sportief/Wandelen" title="#">Wandelen</a></li>
+<li><a href="categorie/Sportief/Watersport" title="#">Watersport</a></li>
+<li><a href="categorie/Sportief/Wielersport" title="#">Wielersport</a></li>
+</ul>
+</li>
+<!--seventh-->
+<li class="seventh_column">
+<ul>
+<li class="title"><a href="categorie/Theater" title="#">Theater</a></li>
+<li><a href="categorie/Theater/Cabaret" title="#">Cabaret</a></li>
+<li><a href="categorie/Theater/Dans" title="#">Dans</a></li>
+<li><a href="categorie/Theater/Musical" title="#">Musical</a></li>
+<li><a href="categorie/Theater/Openlucht" title="#">Open lucht</a></li>
+<li><a href="categorie/Theater/Paardensport" title="#">Paardensport</a></li>
+<li><a href="categorie/Theater/Toneel" title="#">Toneel</a></li>
+<li><a href="categorie/Theater/Verteltheater" title="#">Verteltheater</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/Uitgaan" title="#">Uitgaan</a></li>
+<li><a href="categorie/Uitgaan/Disco" title="#">Disco / Dans</a></li>
+<li><a href="categorie/Uitgaan/Kroegfeesten" title="#">Kroegfeesten</a></li>
+</ul>
+<ul>
+<li class="title"><a href="categorie/Water/" title="#">Water</a></li>
+<li><a href="categorie/Water/Nautisch" title="#">Nautische evenementen</a></li>
+<li><a href="categorie/Water/Vaartochten" title="#">Vaartochten</a></li>
+</ul>
+</li>
+</ul>
+<a class="signup_footer" href="gratis-evenement-aanmelden" title=""><img alt="" class="imgHoverable" src="images/eventsignup_teaser.png"/></a>
+</div><!--middle-->
+</div><!--bg_footer-->
+<div class="middle">
+<ul class="initiative_note">
+<li>
+<span class="txt">Copyright 2022 - An initiative of After One BV</span>
+</li>
+</ul>
+</div>
+</body>
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-3544067-4");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+<link href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" rel="stylesheet" type="text/css">
+<!-- Begin Cookie Consent plugin by Silktide - https://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"We gebruiken cookies om content en advertenties te personaliseren, om functies voor social media te bieden en om ons websiteverkeer te analyseren. Ook delen we informatie over uw gebruik van onze site met onze partners voor social media, adverteren en analyse. Deze partners kunnen deze gegevens combineren met andere informatie die u aan ze heeft verstrekt of die ze hebben verzameld op basis van uw gebruik van hun services.","dismiss":"Accepteer","learnMore":"More info","link":null,"theme":"dark-floating"};
+</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js" type="text/javascript"></script>
+<!-- End Cookie Consent plugin -->
+<style>
+
+    .cc_message{
+        color: white;
+    }
+</style>
+</link></html>
